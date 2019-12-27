@@ -1,6 +1,6 @@
-#PROJETO DA DISCIPLINA PROGRAMAÇÃO E ESTRUTURA DE DADOS#
-##Conversão e Avaliação de Expressões Infixas em Pós-fixas e Pré-fixas##
-##2018.2##
+# PROJETO DA DISCIPLINA PROGRAMAÇÃO E ESTRUTURA DE DADOS #
+## Conversão e Avaliação de Expressões Infixas em Pós-fixas e Pré-fixas ##
+## 2018.2 ##
 
 **1. Apresentação**
 
