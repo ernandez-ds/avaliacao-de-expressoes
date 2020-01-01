@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 class Menu:
   """ Classe que imprime menus do programa principal, menu posfixa e menu prefixa
   """

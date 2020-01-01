@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from Pilha import *
 from ClasseExpressao import *
 from Menu import *
